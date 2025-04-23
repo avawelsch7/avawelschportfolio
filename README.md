@@ -1,6 +1,6 @@
 # avawelschportfolio
 This is a portfolio for Ava Welsch
-# FirstName LastName
+# Ava Welsch
 Contact Info: [fill in]
 ### About Me 
 [Fill in Madlibs here]
