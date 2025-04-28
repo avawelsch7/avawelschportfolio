@@ -5,7 +5,7 @@ Contact Info: [862-296-7844]
 Over the course of my academic journey, I’ve developed skills in research analysis, active listening, critical thinking, and effective communication. I enjoy applying these skills to explore topics such as mental health advocacy, cognitive development, and behavioral science. I’m also gaining hands-on experience with tools like SPSS, Qualtrics, and Microsoft Office Suite.
 My curious mindset, commitment to empathy and ethical practice, and passion for helping others drive me to grow both personally and professionally.
 Outside of academics, I love to read and spend time at the gym—it's how I recharge and stay balanced.
-Feel free to connect with me on Instagram, or Facebook!
+Feel free to connect with me on Instagram, or Linkedin!
 ]
 
 ### Education 
