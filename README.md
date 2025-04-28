@@ -9,7 +9,7 @@ Feel free to connect with me on Instagram, or Facebook!
 ]
 
 ### Education 
-[Mount Olive High School]
+[Mount Olive High School] 
 ***
 ### Projects
 
