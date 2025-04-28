@@ -1,6 +1,6 @@
 # Ava Welsch
 ![Banner Image](Screenshots\Wallpaper.jpg)
-![ProfileImage](Screenshots\cropped_image.png)
+![Profile Image](Screenshots\cropped_image.png)
 
 Contact Info: [862-296-7844]
 ### About Me 
@@ -18,16 +18,16 @@ Feel free to connect with me on Linkedin, or Github!
 
 #### Project 1 Title
  - Project 1 Summary 1/29
- - ![ProjectImage1](Screenshots\Screenshot 2025-01-29 231029.png) 
+ - ![ProjectImage1](Screenshots\Screenshot2025-01-29231029.png) 
  - Project 1 Report
 ***
 #### Project 2 Title
  - Project 2 Summary 4/9
- - ![ProjectImage2](Screenshots\Screenshot 2025-04-09 222048.png)
+ - ![ProjectImage2](Screenshots\Screenshot2025-04-09222048.png)
  - Project 2 Report
 ***
 #### Project 3 Title
  - Project 3 Summary 4/17
- - ![ProjectImage3](Screenshots\Screenshot 2025-04-17 164712.png)
+ - ![ProjectImage3](Screenshots\Screenshot2025-04-17164712.png)
  - Project 3 Report
 
