@@ -1,6 +1,6 @@
 # Ava Welsch
-!()C:\Users\avawe\OneDrive\Desktop\106_live\Images\Wallpaper.jpg
-!()C:\Users\avawe\Downloads\99943103-13C6-46B0-A09F-932E944B37C2.JPG
+![Banner Image](Screenshots\Wallpaper.jpg)
+
 Contact Info: [862-296-7844]
 ### About Me 
 Hello! I’m a dedicated college student majoring in Psychology, with a strong interest in understanding human behavior and promoting mental wellness.
