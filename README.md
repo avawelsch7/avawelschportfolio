@@ -18,7 +18,7 @@ Feel free to connect with me on Linkedin, or Github!
 
 #### Project 1 Title
  - This project taught me about different features of laptops and monitors and to really grasp and understand the proper ways to search for technology and what to actually look for. 
- - ![ProjectImage1](Screenshots/Screenshot2025-01-29231029.png)
+ - ![ProjectImage1](ScreenshotsScreenshot2025-01-29231029.png)
  - Initial project idea: 
 The goal of this project was to find a website that sells new pieces of technology such as best buy and to observe the differences in prices. The problem to solve was really to see what causes certain pieces of technology to be more than others. 
 
@@ -37,7 +37,7 @@ I set out to really just learn more about technology and what pieces are better 
 ***
 #### Project 2 Title
  - This project taught me how to navigate SPSS for the first time while also learning how to organize data and the uses of different graphs. 
- - ![ProjectImage2](Screenshots/Screenshot2025-04-09222048.png)
+ - ![ProjectImage2](ScreenshotsScreenshot2025-04-09222048.png)
  - Initial project idea: 
 This project I came up with to get used to using the functions of SPSS. I came up with a question of experiment to ask and that further led to learning how to create graphs based on the spreadsheet. I also gathered data and learned to organize it. 
 
@@ -56,7 +56,7 @@ I achieved a lot in terms of learning how to navigate the functions of a new web
 ***
 #### Project 3 Title
  - This project allowed me to get even more practice using SPSS along with learning to upload data from another website. I was able to get more practice in making graphs along with overcoming obstacles that I did not face on the website prior to this. 
- - ![ProjectImage3](Screenshots/Screenshot2025-04-17164712.png)
+ - ![ProjectImage3](ScreenshotsScreenshot2025-04-17164712.png)
  - PROJECT 3:
 Initial project idea: 
 This project was used to get in more practice using SPSS and to learn to upload data into the website. I also focused more on finding a specific question to solve which was the relativity to heat and the loudness of cricket noises. 
