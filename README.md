@@ -36,9 +36,23 @@ I set out to really just learn more about technology and what pieces are better 
 
 ***
 #### Project 2 Title
- - Project 2 Summary 4/9
+ - This project taught me how to navigate SPSS for the first time while also learning how to organize data and the uses of different graphs. 
  - ![ProjectImage2](Screenshots/Screenshot2025-04-09222048.png)
- - Project 2 Report
+ - Initial project idea: 
+This project I came up with to get used to using the functions of SPSS. I came up with a question of experiment to ask and that further led to learning how to create graphs based on the spreadsheet. I also gathered data and learned to organize it. 
+
+Tools I used: 
+I used SPSS which is typically used to organize data and create graphs. 
+
+Challenges I faced:
+I did initially have a hard time using SPSS as it is a very old website and so it took be a little while to figure it out. I also initially had a hard time with creating the graphs as I had to learn how to organize it specifically on that website. 
+
+Other Resources: 
+I did not use any other resources or collaborations. 
+
+Result:
+I achieved a lot in terms of learning how to navigate the functions of a new website for spreadsheets that’s different from excel. For next time I would like to learn how to create the graphs in a more advanced way because I felt as though I had a hard time figuring that out. 
+
 ***
 #### Project 3 Title
  - Project 3 Summary 4/17
