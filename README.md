@@ -55,6 +55,22 @@ I achieved a lot in terms of learning how to navigate the functions of a new web
 
 ***
 #### Project 3 Title
- - Project 3 Summary 4/17
+ - This project allowed me to get even more practice using SPSS along with learning to upload data from another website. I was able to get more practice in making graphs along with overcoming obstacles that I did not face on the website prior to this. 
  - ![ProjectImage3](Screenshots/Screenshot2025-04-17164712.png)
- - Project 3 Report
+ - PROJECT 3:
+Initial project idea: 
+This project was used to get in more practice using SPSS and to learn to upload data into the website. I also focused more on finding a specific question to solve which was the relativity to heat and the loudness of cricket noises. 
+
+Tools I used: 
+I used SPSS and data from excel which I uploaded.
+
+Challenges I faced:
+I had a really hard time trying to upload the data as this was the first time I had done it and my file names were initially incorrect. I was able to figure it out by watching videos to help me to understand what the issue was with my translation. 
+
+Other Resources: 
+The only other resource I used was videos from my professor to help me to translate and understand the issues. I did not collaborate with anyone. 
+
+Result:
+What did you set out to achieve? Did you achieve it? What improvements would you like to make if you had a chance to take this further? 
+The goal I set out to do was to get more comfortable using SPSS and also to learn to upload data from another website which is really convenient. I think for next time I will try to collaborate with others to really understand where I’m running into issues when using SPSS. 
+
