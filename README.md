@@ -1,6 +1,6 @@
 # Ava Welsch
 ![Banner Image](Screenshots/Wallpaper.jpg)
-![Profile Image](Screenshots/Cropped%20Image.png)
+![Profile Image](Screenshots/cropped_image.png)
 
 Contact Info: [862-296-7844]
 ### About Me 
